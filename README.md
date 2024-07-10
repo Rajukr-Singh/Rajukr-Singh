@@ -25,7 +25,7 @@ I'm open to collaborating on projects that involve:
 
 ## 📫 How to Reach Me
 - **Email**: rajusingh29977@gmail.com
-- **LinkedIn**: [Rajukumar Singh](https://www.linkedin.com/in/rajukumar-singh)
+- **LinkedIn**: [Rajukumar Singh]([https://www.linkedin.com/in/rajukumar-singh](https://www.linkedin.com/in/rajukumar-singh-136336258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ## 😄 Pronouns
 He/Him
