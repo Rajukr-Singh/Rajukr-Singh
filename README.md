@@ -1,19 +1,19 @@
 # Hi there, I'm Rajukumar Singh! 👋
 
 ## 👀 About Me
-I'm a passionate software developer with a keen interest in .NET Core and Angular. I enjoy building robust backend systems and dynamic, user-friendly front-end interfaces. My goal is to continuously learn and improve my skills while contributing to exciting projects.
+I'm a passionate software developer with a keen interest in .NET Core and Angular along with DevOps and cloud architecture. I enjoy building robust backend systems and dynamic, user-friendly front-end interfaces. My goal is to continuously learn and improve my skills while contributing to exciting projects.
 
 ## 🌱 Currently Learning
 - Advanced .NET Core concepts and patterns
 - Cutting-edge features of Angular
 - Best practices in software architecture and design
-- DevOps and continuous integration/continuous deployment (CI/CD) pipelines
+- DevOps and continuous integration/continuous deployment (CI/CD) pipelines along with cloud architecture
 
 ## 💼 Skills
 - **Languages**: C#, TypeScript, JavaScript, HTML, CSS
 - **Frameworks**: .NET Core, Angular, Entity Framework
 - **Tools & Platforms**: Visual Studio, VS Code, Git, Azure DevOps, Docker
-- **Databases**: SQL Server, MySQL
+- **Databases**: SQL Server, MySQL, PostgresSQL
 - **Testing**: NUnit, xUnit, 
 
 ## 💞️ Collaboration
@@ -38,7 +38,7 @@ When I'm not coding, I enjoy watching web series, animes and movies, experimenti
 ![Rajukumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajukumar-Singh&show_icons=true&theme=radical)
 
 ## 🏆 Achievements
-- Completed a 100-day coding challenge with a focus on .NET Core and Angular.
+- ?
 
 
 ## 💬 Let's Connect!
