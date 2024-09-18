@@ -22,6 +22,7 @@ I'm open to collaborating on projects that involve:
 - Implementing RESTful APIs and microservices
 - Improving performance and security of applications
 - Integrating third-party services and APIs
+- Improving application functionality using DevOps
 
 ## 📫 How to Reach Me
 - **Email**: rajusingh29977@gmail.com
